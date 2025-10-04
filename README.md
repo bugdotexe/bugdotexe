@@ -1,16 +1,25 @@
-## Hi there 👋
+```
+██████╗  ██████╗ ███████╗██████╗ ███████╗
+██╔══██╗██╔═══██╗██╔════╝██╔══██╗██╔════╝
+██████╔╝██║   ██║█████╗  ██████╔╝███████╗
+██╔══██╗██║   ██║██╔══╝  ██╔══██╗╚════██║
+██║  ██║╚██████╔╝███████╗██║  ██║███████║
+╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝╚══════╝
 
-<!--
-**bugdotexe/bugdotexe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+────────────────────────────────────────────
+       🌐 World Off    💻 Terminal On       
+────────────────────────────────────────────
 
-Here are some ideas to get you started:
+👾 User: bugdotexe (Myanmar)
+⚡ Role: Bug Bounty Hunter | Penetration Tester | Automation Enthusiast
+🎯 Motto: "Automate. Hack. Repeat."
+🕶️ Theme: CYBER
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+────────────────────────────────────────────
+
+# Welcome to the CYBER ZONE
+
+echo -e "\e[38;5;51mW\e[38;5;45mo\e[38;5;49mr\e[38;5;82ml\e[38;5;118md \e[38;5;226mO\e[38;5;208mf\e[38;5;196mf \e[0m|\e[38;5;33m T\e[38;5;39me\e[38;5;44mr\e[38;5;80mm\e[38;5;121mi\e[38;5;123mn\e[38;5;87ma\e[38;5;27ml \e[38;5;46mO\e[38;5;77mn\e[0m"
+
+────────────────────────────────────────────
+```
