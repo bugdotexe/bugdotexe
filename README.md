@@ -20,7 +20,7 @@ ___.                    .___      __
 👾 User: bugdotexe (Myanmar)
 ⚡ Role: Bug Bounty Hunter | Penetration Tester | Automation Enthusiast
 🎯 Motto: "Automate. Hack. Repeat."
-
+🧠 CVE: [CVE-2025-61532](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2025-61532)
 ```
 ───────────────────────────────────────────
 
